@@ -1,2 +1,3 @@
 # ambidroid-hw
-Hardware stuff for Ambidroid application - Ambilight effect on mobile phone
+
+This is the part of [Ambidroid](https://github.com/akowalew/ambidroid) application - Ambilight effect on mobile phone.
